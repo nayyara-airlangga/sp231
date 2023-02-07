@@ -1,4 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC W00 10 L10 Setup GitHub repositoru for System Programming class
+ZCZC W00 10 L10 Setup GitHub repository for SP231
+ZCZC W00 10 L10 Setup GitHub Page for SP231
