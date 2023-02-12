@@ -8,3 +8,4 @@ ZCZC W00  50 L02 Tuesday online class
 ZCZC W00  90 L10 Reading TLPI
 ZCZC W00  90 L10 Setup VirtualBox VM
 ZCZC W00  90 L10 Reading a bit on FUSE
+ZCZC W00  20 L10 Finish Week 00 assignments and update logs
