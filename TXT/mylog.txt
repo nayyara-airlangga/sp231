@@ -9,3 +9,10 @@ ZCZC W00  90 L10 Reading TLPI
 ZCZC W00  90 L10 Setup VirtualBox VM
 ZCZC W00  90 L10 Reading a bit on FUSE
 ZCZC W00  20 L10 Finish Week 00 assignments and update logs
+ZCZC W01 100 L02 Monday offline class
+ZCZC W01  50 L02 Tuesday online class
+ZCZC W01  90 L11 Reading on FUSE
+ZCZC W01  90 L11 Compiling 6.1.12 linux kernel
+ZCZC W01  30 L11 Compiling TLPI
+ZCZC W01  10 L05 Do Week 01 Quiz
+ZCZC W01  10 Finish Week 01 assignments and update logs
