@@ -15,4 +15,10 @@ ZCZC W01  90 L11 Reading on FUSE
 ZCZC W01  90 L11 Compiling 6.1.12 linux kernel
 ZCZC W01  30 L11 Compiling TLPI
 ZCZC W01  10 L05 Do Week 01 Quiz
-ZCZC W01  10 Finish Week 01 assignments and update logs
+ZCZC W01  10 L11 Finish Week 01 assignments and update logs
+ZCZC W02 100 L02 Monday offline class
+ZCZC W02  50 L02 Tuesday online class
+ZCZC W02  10 L12 Script download
+ZCZC W02 420 L12 LFS Chapter 1-7
+ZCZC W02  10 L05 Do Week 02 Quiz
+ZCZC W02  10 L12 Finish Week 02 assignments
