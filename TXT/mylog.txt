@@ -21,4 +21,5 @@ ZCZC W02  50 L02 Tuesday online class
 ZCZC W02  10 L12 Script download
 ZCZC W02 420 L12 LFS Chapter 1-7
 ZCZC W02  10 L05 Do Week 02 Quiz
+ZCZC W02  10 L12 Do Week 02 Pop Quiz
 ZCZC W02  10 L12 Finish Week 02 assignments
