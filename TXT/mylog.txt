@@ -37,3 +37,5 @@ ZCZC W04  60 L14 Programming Task 4
 ZCZC W04   5 L14 Do Week 04 Pop Quiz
 ZCZC W04  10 L14 Script download
 ZCZC W04  90 L14 Readings
+ZCZC W04  30 L14 Update Linux kernel to 6.2.5
+ZCZC W04  10 L14 Finish Week 04 assignments
