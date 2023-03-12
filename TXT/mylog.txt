@@ -31,3 +31,9 @@ ZCZC W03  15 L13 Do Week 03 Pop Quiz
 ZCZC W03  10 L13 Do Week 03 Quiz
 ZCZC W03  15 L13 Script download
 ZCZC W03  10 L13 Finish Week 03 assignments and update logs
+ZCZC W04 100 L02 Monday offline class
+ZCZC W04  50 L02 Tuesday online class
+ZCZC W04  60 L14 Programming Task 4
+ZCZC W04   5 L14 Do Week 04 Pop Quiz
+ZCZC W04  10 L14 Script download
+ZCZC W04  90 L14 Readings
