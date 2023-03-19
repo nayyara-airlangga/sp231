@@ -39,3 +39,9 @@ ZCZC W04  10 L14 Script download
 ZCZC W04  90 L14 Readings
 ZCZC W04  30 L14 Update Linux kernel to 6.2.5
 ZCZC W04  10 L14 Finish Week 04 assignments
+ZCZC W05 100 L02 Monday offline class
+ZCZC W05  50 L02 Tuesday online class
+ZCZC W05  90 L15 Autoconf and Automake Task 05
+ZCZC W05  10 L15 Script download
+ZCZC W05  90 L15 Readings
+ZCZC W05  50 L15 Update Linux kernel to 6.2.7
