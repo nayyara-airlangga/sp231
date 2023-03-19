@@ -45,3 +45,5 @@ ZCZC W05  90 L15 Autoconf and Automake Task 05
 ZCZC W05  10 L15 Script download
 ZCZC W05  90 L15 Readings
 ZCZC W05  50 L15 Update Linux kernel to 6.2.7
+ZCZC W05  20 L15 Do Week 05 Pop Quiz
+ZCZC W05  10 L15 Finish Week 05 Assignments
