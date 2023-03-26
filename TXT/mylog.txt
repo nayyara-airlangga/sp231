@@ -53,3 +53,4 @@ ZCZC W06  90 L16 Programming Task 6
 ZCZC W06  15 L16 Script download
 ZCZC W06  90 L16 Readings
 ZCZC W06  20 L16 Do Week 06 Pop Quiz
+ZCZC W06  10 L16 Finish Week 06 Assignments
